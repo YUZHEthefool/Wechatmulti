@@ -18,7 +18,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "wechatmult"
+name = "wechatmulti"
 version = "0.1.0"
 dependencies = [
  "anyhow",
